@@ -6,7 +6,7 @@
 <img src="https://cl.ly/2e57c2b5999d/download/Image%2525202018-11-06%252520at%25252012.31.15%252520PM.png"/>
 </div>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=41653419&auto=1&height=66"></iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=41653419&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 **<center>You are what you listen to</center>**
 
